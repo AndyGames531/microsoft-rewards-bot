@@ -2,7 +2,7 @@
 
 Go see wiki for the downloads 
 
-I try my best to make some money, it is open source so I wont charge anything but please consider donating. And i will leave download links to linkvertise(a way to monetize my downloads) if unfamiliar with linkvertise, dont use it but i will have documented tutorials and video tutorials showing how to download and setup, i want to make tutorials for the linkvertise because it is possible that it contains missleading ads)
+I try my best to make some money, it is open source so I wont charge anything but please consider donating(see bottom of the README.md). And i will leave download links to linkvertise(a way to monetize my downloads) if unfamiliar with linkvertise, dont use it but i will have documented tutorials and video tutorials showing how to download and setup, i want to make tutorials for the linkvertise because it is possible that it contains missleading ads)
 
 This is a microsoft rewards bot. Ive seen alot of projects regarding this but i havnt been able to find any that work(i couldve installed it incorrectly)
 I decided ill make it myself using python simply because python is a powerfull scripting language basically built for this task.
